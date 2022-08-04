@@ -19,7 +19,6 @@ https://harley.netlify.app/
 - https://getbootstrap.com/
 - https://remixicon.com/
 - https://unsplash.com/
-- https://unsplash.com/
 - https://fancyapps.com/docs/ui/fancybox/
 
 # Watch more

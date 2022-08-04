@@ -16,7 +16,7 @@ https://harley.netlify.app/
 
 
 # Credits
-- https://fgetbootstrap.com/
+- https://getbootstrap.com/
 - https://remixicon.com/
 - https://unsplash.com/
 - https://unsplash.com/

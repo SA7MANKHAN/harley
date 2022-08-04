@@ -20,6 +20,7 @@ https://harley.netlify.app/
 - https://remixicon.com/
 - https://unsplash.com/
 - https://fancyapps.com/docs/ui/fancybox/
+- https://michalsnik.github.io/aos/
 
 # Watch more
 For more videos visit to my Youtube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)

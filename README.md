@@ -1,9 +1,9 @@
-# Harley
-Harley – Personal Portfolio Bootstrap Template is for many purpose. It’s creative, minimal and clean design. It has all of the features of the business website. It’s suitable for any startup business, companies, agencies, and freelancers which need a professional way to showcase their projects and services with 100% super responsive experience.
+# Jon Carter
+This portfolio website is designed using Bootstrap, a popular front-end development framework. It is fully responsive, meaning that it adjusts to fit the screen size of the device it is being viewed on, making it accessible on desktop, tablet, and mobile devices. The website showcases a user's work and skills in a visually appealing manner, making it easy for potential clients or employers to understand their experience and expertise.
 
 
 # Quick Demo
-https://harley.netlify.app/
+https://joncarter.netlify.app/
 
 
 # Features
@@ -17,9 +17,8 @@ https://harley.netlify.app/
 
 # Credit
 - https://getbootstrap.com/
-- https://remixicon.com/
+- https://icons8.com/line-awesome
 - https://unsplash.com/
-- https://fancyapps.com/docs/ui/fancybox/
 - https://michalsnik.github.io/aos/
 
 # Watch more
